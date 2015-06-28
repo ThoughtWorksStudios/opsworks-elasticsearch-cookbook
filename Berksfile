@@ -12,6 +12,7 @@ cookbook 'rsyslog', '>= 1.11.0', git: 'git://github.com/opscode-cookbooks/rsyslo
 cookbook 'windows', '>= 1.30.0', git: 'git://github.com/opscode-cookbooks/windows.git', tag: 'v1.30.2'
 cookbook 'yum', git: 'git://github.com/opscode-cookbooks/yum.git', tag: 'v3.4.0'
 cookbook 'yum-epel', '>= 0.3.4', git: 'git://github.com/opscode-cookbooks/yum-epel.git', tag: 'v0.5.1'
-cookbook 'elasticsearch', git: 'git://github.com/elasticsearch/cookbook-elasticsearch.git', tag: '0.3.11'
+cookbook 'elasticsearch', git: 'git://github.com/justanshulsharma/cookbook-elasticsearch.git', branch: 'foodcritic'
 cookbook 'mongodb', git: 'git://github.com/edelight/chef-mongodb'
 cookbook 'papertrail', git: 'git://github.com/librato/papertrail-cookbook', tag: '0.0.7'
+cookbook 'opsworks_stack_state_sync', git: 'git://github.com/justanshulsharma/opsworks_stack_state_sync'
