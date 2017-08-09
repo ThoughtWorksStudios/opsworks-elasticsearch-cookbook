@@ -16,3 +16,4 @@ cookbook 'elasticsearch', git: 'git://github.com/elasticsearch/cookbook-elastics
 cookbook 'mongodb', git: 'git://github.com/edelight/chef-mongodb'
 cookbook 'papertrail', git: 'git://github.com/librato/papertrail-cookbook', tag: '0.0.7'
 cookbook 'chef_handler', git: 'git://github.com/chef-cookbooks/chef_handler',  tag: 'v1.4.0'
+cookbook 'homebrew', git: 'git://github.com/chef-cookbooks/homebrew', tag: 'v2.1.2'
